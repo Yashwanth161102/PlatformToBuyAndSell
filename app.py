@@ -15,7 +15,7 @@ app=Flask(__name__)
 app.config['SECRET_KEY'] = 'frgtehysi#%^*TGysuukx'
 app.config['MYSQL_HOST'] = '127.0.0.1'
 app.config['MYSQL_USER'] = 'ponugoti'
-app.config['MYSQL_PASSWORD'] = 'sruthi@123'
+app.config['MYSQL_PASSWORD'] = 'yashu@123'
 app.config['MYSQL_DB'] = 'website'
 
 # Configure mail
